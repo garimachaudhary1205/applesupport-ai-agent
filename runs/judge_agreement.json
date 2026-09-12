@@ -1,0 +1,7 @@
+{
+ "n": 36,
+ "spearman": 0.458,
+ "exact": 0.528,
+ "within1": 0.889,
+ "quadratic_kappa": 0.556
+}

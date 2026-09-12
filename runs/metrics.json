@@ -1,0 +1,136 @@
+{
+ "n_scored": 230,
+ "n_agent_errors": 0,
+ "agent": {
+  "intent_accuracy": 0.826,
+  "intent_macro_f1": 0.702,
+  "escalation": {
+   "precision": 0.632,
+   "recall": 0.768,
+   "f1": 0.694
+  }
+ },
+ "trivial": {
+  "intent_accuracy": 0.37,
+  "intent_macro_f1": 0.067,
+  "escalation": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0
+  }
+ },
+ "simple": {
+  "intent_accuracy": 0.483,
+  "intent_macro_f1": 0.298,
+  "escalation": {
+   "precision": 0.233,
+   "recall": 0.5,
+   "f1": 0.318
+  }
+ },
+ "agent_top_confusions": [
+  {
+   "gold": "other_unclear",
+   "pred": "complaint_feedback",
+   "count": 4
+  },
+  {
+   "gold": "other_unclear",
+   "pred": "feature_app_malfunction",
+   "count": 4
+  },
+  {
+   "gold": "performance_battery",
+   "pred": "complaint_feedback",
+   "count": 3
+  },
+  {
+   "gold": "hardware_damage",
+   "pred": "feature_app_malfunction",
+   "count": 2
+  },
+  {
+   "gold": "performance_battery",
+   "pred": "update_install_issue",
+   "count": 2
+  },
+  {
+   "gold": "other_unclear",
+   "pred": "performance_battery",
+   "count": 2
+  },
+  {
+   "gold": "account_billing",
+   "pred": "hardware_damage",
+   "count": 2
+  },
+  {
+   "gold": "complaint_feedback",
+   "pred": "other_unclear",
+   "count": 2
+  }
+ ],
+ "agent_per_class": {
+  "account_billing": {
+   "precision": 0.8461538461538461,
+   "recall": 0.6875,
+   "f1-score": 0.7586206896551724,
+   "support": 16.0
+  },
+  "complaint_feedback": {
+   "precision": 0.4375,
+   "recall": 0.7777777777777778,
+   "f1-score": 0.56,
+   "support": 9.0
+  },
+  "feature_app_malfunction": {
+   "precision": 0.9195402298850575,
+   "recall": 0.9411764705882353,
+   "f1-score": 0.9302325581395349,
+   "support": 85.0
+  },
+  "hardware_damage": {
+   "precision": 0.6363636363636364,
+   "recall": 0.7777777777777778,
+   "f1-score": 0.7,
+   "support": 9.0
+  },
+  "how_to_question": {
+   "precision": 0.8695652173913043,
+   "recall": 0.8333333333333334,
+   "f1-score": 0.851063829787234,
+   "support": 24.0
+  },
+  "other_unclear": {
+   "precision": 0.5833333333333334,
+   "recall": 0.3333333333333333,
+   "f1-score": 0.42424242424242425,
+   "support": 21.0
+  },
+  "performance_battery": {
+   "precision": 0.9032258064516129,
+   "recall": 0.875,
+   "f1-score": 0.8888888888888888,
+   "support": 64.0
+  },
+  "update_install_issue": {
+   "precision": 0.3333333333333333,
+   "recall": 1.0,
+   "f1-score": 0.5,
+   "support": 2.0
+  },
+  "accuracy": 0.8260869565217391,
+  "macro avg": {
+   "precision": 0.6911269253640155,
+   "recall": 0.7782373366013072,
+   "f1-score": 0.7016310488391568,
+   "support": 230.0
+  },
+  "weighted avg": {
+   "precision": 0.8389427708822841,
+   "recall": 0.8260869565217391,
+   "f1-score": 0.8250922182139853,
+   "support": 230.0
+  }
+ }
+}

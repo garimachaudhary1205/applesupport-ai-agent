@@ -1,0 +1,2536 @@
+{
+ "trivial": [
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "action": "auto_handle",
+   "reply": "We're sorry to hear you're having trouble. Please update to the latest iOS in Settings > General > Software Update, and reach out in DM if the issue continues."
+  }
+ ],
+ "simple": [
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Take a look at this article for specifics on messaging with the Apple Watch Series 3 (GPS + Cellular): <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.439
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're here to help. What type of iPad do you currently have?",
+   "action": "auto_handle",
+   "nn_similarity": 0.274
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We\u2019d love to help. Send us a DM letting us know which software version your Mac uses if a restart doesn\u2019t resolve the issue. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.361
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer Thank you for reaching out to us. We know how important your iPhone is to you. Let's work together to resolve this. DM us. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.282
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer We do not ship from the Apple Store, but you are more than welcome to post any item after the sale.",
+   "action": "auto_handle",
+   "nn_similarity": 0.343
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Sure! We definitely want you to be able to use that camera. Check out the steps in this article for help: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.532
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We can help! Please join us in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.342
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer We're happy to help. Reach us via DM to gather more information. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.482
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out to us. Can you please clarify the issue that you are having so that we can better understand?",
+   "action": "auto_handle",
+   "nn_similarity": 0.359
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out. DM the specific issue you are seeing with your Phone to get started. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.276
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We're happy to help out. Are the messages in question to and from just one contact, or does it involve multiple contacts? <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.282
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.612
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer We're happy to help. Check out this article with steps to help with this: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.308
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer That's not expected! What kind of iPhone do you have? Does restarting help? DM us, and we'll find a solution together. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.557
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.325
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out. We know how important it is for your device to work as expected and we'll do everything we can to assist. We'd recommend following the steps here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.42
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Could you DM us so we can ask a few more questions about the page that you're on? <link>",
+   "action": "escalate",
+   "nn_similarity": 0.328
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let's take a closer look in DM. What is the exact error message you're receiving? <link>",
+   "action": "escalate",
+   "nn_similarity": 0.704
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're here to help. Are you updating via Wi-Fi or iTunes? Are you receiving any error messages? DM us to continue. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.251
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let's take a look at this. Meet up in DM, and we'll take it from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.283
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Let\u2019s see what\u2019s causing this. Send us a DM with your installed macOS version to get started. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.45
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer That's not what we'd like to hear, and want to help stop this from happening. Tell us more about what you're experiencing.",
+   "action": "auto_handle",
+   "nn_similarity": 0.368
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Let's help take a closer look. Does the same behavior happen when not connected via Bluetooth?",
+   "action": "auto_handle",
+   "nn_similarity": 0.464
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to look into this with you. Please click here to join us in DM: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.4
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer This isn't what we want to hear. Please DM us more about what's happening with your iOS device. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.37
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd be happy to look into with you. Our iOS 11.1.1 update resolved this issue. If you experience this issue after version 11.1.1, send us a DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.634
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd be happy to take a look into this with you. Could you please send us a DM with what device you're having this issue on, and what OS version it's running so we can take a look? <link>",
+   "action": "escalate",
+   "nn_similarity": 0.368
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We received your DM, we'll continue with you there.",
+   "action": "escalate",
+   "nn_similarity": 0.431
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're unable to downgrade your iOS, but we're here to help you with iOS 11, what's going on? Let us know in DM, please. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.381
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let's look into this together. What issue do you experience when attempting to update?",
+   "action": "auto_handle",
+   "nn_similarity": 0.265
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We've received your DMs and will continue there.",
+   "action": "auto_handle",
+   "nn_similarity": 0.408
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer We can help. Let's restart the device and let us know in DM if it persists, please. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.335
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd love to help find the best solution so you can continue to experience the MacBook Air as you like. DM us what software version you're on. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.366
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd be happy to look into this issue. Send us a DM with your current iOS version and we'll continue from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.368
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to look into this with you. Send us a DM by clicking on the link below. We'll continue there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.293
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer We'd like to see how we can help. Send us a DM with more information, and we'll continue from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.286
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer Thanks for reaching out. Are you encountering this when playing any other songs or albums?",
+   "action": "auto_handle",
+   "nn_similarity": 0.362
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer This shows how credit works with the iTunes Store: <link> For more, connect here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.269
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out to us. DM us and tell us which version of iOS you're running. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.589
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer That's not the behavior we want to see. Let's look into this. Reach out to us in Direct Message and we'll work there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.497
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for bringing this to our attention. Let's hop in DM and provide us with the software version you're using. Click here: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.361
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer An update has been released to assist with this issue. If you haven\u2019t yet, please back up your device and update it to iOS 11.1.1. For more info, check out: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.476
+  },
+  {
+   "intent": "hardware_damage",
+   "reply": "@customer Let's get this resolved! Is it happening after installing the High Sierra supplemental update?",
+   "action": "auto_handle",
+   "nn_similarity": 0.382
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We know how vital the battery is and we'll help. Have you tried these steps? <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.404
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer That is correct. It is only available in the United States.",
+   "action": "auto_handle",
+   "nn_similarity": 0.457
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to hear more about your experience. Please meet us in DM with details of your experience so we can help accordingly. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.263
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Try out these steps: <link> That should correct the issue. Let us know.",
+   "action": "auto_handle",
+   "nn_similarity": 0.497
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We can check into the options you have to get that issue solved. Could you join us in DM to get started? <link>",
+   "action": "escalate",
+   "nn_similarity": 0.414
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer We know you need to stay in contact with family and friends with FaceTime and we'll be glad to help you with this. What happens when you try to use it? We have some steps located here that can help: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.288
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Sure thing, we're here for you! Shoot us a DM with your question and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.379
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer We\u2019d be happy to look into this with you. Which device and OS are you using? Are you not receiving any notifications? Please let us know in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.414
+  },
+  {
+   "intent": "hardware_damage",
+   "reply": "@customer We\u2019d be glad to look into this with you. Can you start by confirming your iOS version? Check at Settings > General > About.",
+   "action": "auto_handle",
+   "nn_similarity": 0.477
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to look into this with you. Can you tell us a bit more about what's happening?",
+   "action": "auto_handle",
+   "nn_similarity": 0.278
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to help. Which iOS does this occur on? Also is this the only word that has the issue? Let us know the details in a DM and we'll continue. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.405
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're here to help. So we can look into this with you, which device are you using the Health app with?",
+   "action": "auto_handle",
+   "nn_similarity": 0.394
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to help. Could you Direct Message us so we can look into this further with you? <link>",
+   "action": "escalate",
+   "nn_similarity": 0.307
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Let's pair up and see what we can do. What was your iPhone doing before this screen appeared? Which iOS version are you running?",
+   "action": "auto_handle",
+   "nn_similarity": 0.281
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're happy to assist. Which iOS 11 version are you currently running? Go to Settings > General > About for the version.",
+   "action": "auto_handle",
+   "nn_similarity": 0.319
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer We want to look into this with you. Which iOS version are you using?",
+   "action": "auto_handle",
+   "nn_similarity": 0.489
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer This would be a phishing attempt. You can read more on that here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.803
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Hello there. You should find all the information you need here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.869
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We would be happy to help. What's happening with your iPhone here?",
+   "action": "auto_handle",
+   "nn_similarity": 0.531
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer Let's work together to get things sorted out there. Have you been able to power the watch off and back on? Also, is the watch updated to the most recent watchOS?",
+   "action": "auto_handle",
+   "nn_similarity": 0.313
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're glad to help. Let's try restarting the device by following this article, then test again: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.421
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer We've received your DM and will continue from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.346
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for contacting us. What is the source of these songs? For instance, are these songs purchased from iTunes, CD's synced from your computer, or downloaded from the internet?",
+   "action": "auto_handle",
+   "nn_similarity": 0.433
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer We certainly want you to have an iPhone that you can use. Send us a DM, and we'll provide as much information as we can. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.497
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out. DM the specific issue you are seeing with your Phone to get started. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.331
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for working with us in DM. Let us know if we can be of any additional assistance.",
+   "action": "escalate",
+   "nn_similarity": 0.818
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We can help. Have you taken a look here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.329
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let\u2019s figure this out. Use the link below to DM us some details about the issue you\u2019re noticing, and we\u2019ll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.436
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.287
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.371
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out about this issue. We'd be happy to help with getting your Auto-Lock working as expected. To verify, what version of iOS are you on? You can see that in Settings > General > About. Also, how long has this been going on now?",
+   "action": "auto_handle",
+   "nn_similarity": 0.302
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer With a 6s or later, press deeply on the x, then tap Clear All Notifications. Let us know if that helps: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.543
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We're here to help. What's happening with your keyboard?",
+   "action": "auto_handle",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We want to make sure your Messages are working correctly. Were you replying from a notification or the Messages app?",
+   "action": "auto_handle",
+   "nn_similarity": 0.593
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Hello! We'll be happy to help today. How may we be of assistance?",
+   "action": "auto_handle",
+   "nn_similarity": 0.353
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer Let's see what we can do. What's going on with your voice memos? Let us know in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.324
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd love to partner up in DM and work on getting your battery working as expected again. You can reach us below. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.663
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Hey. We're here to help. Have you tried the suggestions here for maximizing battery life: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.319
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer That is certainly an odd one. Can you confirm your iOS version?",
+   "action": "auto_handle",
+   "nn_similarity": 0.46
+  },
+  {
+   "intent": "hardware_damage",
+   "reply": "@customer Let's meet up in DM to discuss what you're experiencing further and work on this together. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.288
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to get your device running smoothly again. Just to confirm, which iOS version are you using now?",
+   "action": "auto_handle",
+   "nn_similarity": 0.213
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer That's not expected behavior. Let's see if forcing a restart helps: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.418
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to provide you more guidance on this. Please, meet up with us in DM below. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.411
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Hey, we can work together to make sure the battery life is as expected. Send us a DM and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.387
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Thanks for reaching out. We're here to help. DM us so we can look into this further with you. <link>",
+   "action": "escalate",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to continue working with you in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.401
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd be happy to provide you with some information about this. Checkout: <link> DM us any questions: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.686
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We completely understand the desire to have more free space, and we'll be happy to look into that with you. What Apple device are you using so we can be sure we are offering the best advice?",
+   "action": "auto_handle",
+   "nn_similarity": 0.373
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We are here to help. Is this issue happening on Wi-Fi as well as cellular data?",
+   "action": "auto_handle",
+   "nn_similarity": 0.365
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd love to help with your Touch ID! Check out this article for steps to fix the trouble you're having: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.458
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Thanks for reaching out. We can help out with your Apple Music app. Which iOS version and iPhone model are you using? At what point does the app seem to freeze? Is it when you first open it, during playback, or at another time?",
+   "action": "auto_handle",
+   "nn_similarity": 0.378
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let us know what is happening in DM. We are always glad to help. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.329
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd be happy to look into this. Are there specific apps not responding more than others? Please DM us the model of iPhone: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.328
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We want to help! What apps are you having trouble with loading? Do you have the most recent version of iOS 11.1.2 downloaded? <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.383
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to help. This article can explain the changes with Wi-Fi and Bluetooth in iOS 11: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.601
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're happy to help. Try our steps here and let us know your results in DM: <link> <link>",
+   "action": "escalate",
+   "nn_similarity": 0.345
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We can help get this solved for you. Let's try the steps here: <link> to update your iPhone to iOS 11.2, and let us know in DM if you see this persist. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.437
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We certainly understand how important your alarms are. Please send us a DM including which tone is set for the alarm. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.476
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer Let's get to the bottom of this together. Have you had a chance to restart your iPhone since noticing the time missing in the status bar? In order to ensure we're on the same page, please let us know which version number of iOS you've got installed.",
+   "action": "auto_handle",
+   "nn_similarity": 0.246
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer We can understand your desire to unlock your daughter's iPad. Please meet us in DM so we can further discuss your options. <link>",
+   "action": "escalate",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer If you're having issues with battery life, let's meet up in Direct Message so we can help. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.453
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Great question and we can look into this issue with you. Could you send us a screenshot of your storage info? You can locate this under the Apple logo upper left corner > About This Mac > Storage.",
+   "action": "auto_handle",
+   "nn_similarity": 0.298
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to help with that, but we'll need those requested details first. Please DM us your iPhone model and iOS version here: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.422
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Battery life is essential; we'll do all we can to help. To start, please let us know what iOS 11 version you have via DM: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.518
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let's look into this together. DM us the exact iOS version your iPhone is running, and we'll get started. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.439
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're here for you. Check out this article for help identifying legitimate emails: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.378
+  },
+  {
+   "intent": "hardware_damage",
+   "reply": "@customer Let's see what we can do to help. Send us a DM and we can look into this for you. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.378
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer We're glad you reached out to us so we can assist you with your FaceTime and iMessage issues. We've also received your DM about this issue, and will continue to work with you there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.689
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Thanks for reaching out. We have a workaround for this here: <link> DM us if you still need help. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.425
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.484
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.353
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer Since our Twitter support is available in English, get help at <link> or join <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.393
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Thanks for reaching out. This article has more details on that behavior, including how to address it: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.497
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer We've responded to your DM. Look for us there.",
+   "action": "escalate",
+   "nn_similarity": 0.426
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd be happy to see how we can assist. Please reach out to us via DM and we'll get started. <link>",
+   "action": "escalate",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'll be happy to help get your Mac updated. Do you have a Time Machine backup? We want to be sure your data is secure. DM us: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.467
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd be happy to help. Send us a DM with a few more details and we can start there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.596
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Our 10.5-inch iPad Pro supports Dolby Vision and HDR10 content. View more info here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.366
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.923
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Send us a DM and let us know what version of iOS you're currently running. We'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.393
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Send us a DM and we'll have a look into this with you. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.682
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to help! Send us a DM with the country that you are located in to continue. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.603
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out. We know how important it is for your device to work as expected and we'll do everything we can to assist. We'd recommend following the steps here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.501
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Thanks for reaching out. We're happy to help. Check out the troubleshooting outlined here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.316
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to look into this together. DM us and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.569
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for the video. Let's try some steps. Have you tried powering off and restarting? If not, follow the steps here for your device and report back with the result: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.443
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'll do all we can to help out. When you say you updated, do you mean to iOS 11.1.2? DM us and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.38
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let\u2019s investigate this. To make sure we\u2019re on the same page, can you tell us which software versions your Watch and iPhone are on?",
+   "action": "auto_handle",
+   "nn_similarity": 0.257
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to take a look. Do you know what version of the iOS is on the device? If not, you can check under Settings > General > About > Version.",
+   "action": "auto_handle",
+   "nn_similarity": 0.232
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Have you been able to use the previously provided links to reach out to iTunes Store support? DM us. <link>",
+   "action": "escalate",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer Thanks for the details! Let's take a closer look. In a DM, please provide us with which country you're in. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.433
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We know how important your music can be. We're here to help. Are you an Apple Music subscriber? Let us know in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.453
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd love to help out. Are you seeing this issue with any specific apps or usage? Do you do anything to restore function?",
+   "action": "auto_handle",
+   "nn_similarity": 0.314
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We do not support going back to older versions. It's important that iOS is up-to-date for the latest features and security.",
+   "action": "auto_handle",
+   "nn_similarity": 0.444
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We know it's important to have your Maps working correctly. We'd like to help. Let's meet in DM and work together on this. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.417
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Hey, we appreciate that video. To help us look into this, send us a DM and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.528
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We know it's important to have your device running the way you'd like. We're happy to help out. Let's meet in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.449
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to see how we can help. DM us more information and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.344
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We've received your DM, and will continue there.",
+   "action": "escalate",
+   "nn_similarity": 0.328
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer We've got some info we can share to answer your question. Face ID has advanced technology that will actively adapt to your face and any changes. You can read more under the \"Advanced technologies\" section via the following link: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.677
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer We're happy to help. Can you tell us what is happening specifically with the device?",
+   "action": "auto_handle",
+   "nn_similarity": 0.556
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We've got an update to fix the issue. Follow these steps to update to iOS 11.1.1: <link> Make sure you have a recent backup made prior to installing the update.",
+   "action": "auto_handle",
+   "nn_similarity": 0.289
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're glad to help with any issues you're experiencing and look into all options. Please DM us & let us know what's going on. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.544
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're here for you. What do you see where the signal should be (searching, no service, etc.)?",
+   "action": "auto_handle",
+   "nn_similarity": 0.294
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.485
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Let's look into this together. Could you tell us which iPhone and iOS version you're currently using?",
+   "action": "auto_handle",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let's look at that together. Is this affecting SMS, iMessage, or both? Are you on cellular or Wi-Fi, and what is happening?",
+   "action": "auto_handle",
+   "nn_similarity": 0.292
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We definitely understand wanting to be able to use your apps! Does restarting help? What exactly happens when you try to open an app?",
+   "action": "auto_handle",
+   "nn_similarity": 0.47
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Hi there. We're happy to answer your questions. Send us a DM and we'll be happy to answer your questions there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.308
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Let's look into that. Send us a DM and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.347
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're happy to help. Let's try following this article and see if we make some headway: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.374
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Updating the iOS software often resolves many unique issues. We suggest backing up your device, then updating to iOS 11.2 to see if that helps. Let us know the result: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.296
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thank you for reaching out. We are here to help. Does this persists after restarting the phone? Also, what is your current iOS version? Tell us in DM: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.436
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Were you able to try the workaround we sent? Send us a DM and we'll look into this together. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.443
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We can help. Which device model are you using? Are you not hearing audio when headphones are connected?",
+   "action": "auto_handle",
+   "nn_similarity": 0.329
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're happy to assist. Which iOS version are you currently running? Go to Settings > General > About for the version. DM us.",
+   "action": "escalate",
+   "nn_similarity": 0.341
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Are you updated to iOS 11.1.1? Please send us a DM letting us know. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.584
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Hi there. We'd like to look into this with you. Which model of device are you using? Please let us know in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.493
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.426
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer Let's look into this for you. This page should help: <link> DM us if you have any issues. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.357
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.386
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We\u2019d love to help. To start, please send us a DM letting us know which iPhone you\u2019re using. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.41
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer We'd like to look into this with you. Go ahead and meet us in DM and we can continue there. <link>",
+   "action": "escalate",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.346
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We want to help resolve any issues you\u2019re having. Which exact version are you currently running? Meet us in DM with more details. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.485
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Great question. Let\u2019s look into this further together. Send us a DM telling us which watchOS version is on your Apple Watch. Also, let us know if the same message occurs after you have restarted your Apple Watch and iPhone. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.409
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Let's get this sorted out together. DM a bit more detail on what you mean by \u201cglitch\u201d, and we\u2019ll take it from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.319
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer Since our Twitter support is available in English, get help at <link> or join <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.341
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'll be happy to work with you. To clarify, are you having issues with watching videos in any other apps?",
+   "action": "auto_handle",
+   "nn_similarity": 0.382
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to look into this with you. Send us a DM by clicking on the link below. We'll continue there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.454
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer We want you to be able to download and update all the apps that you enjoy. Send us a DM and we'll look into this together. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.455
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer We understand that's unexpected. Which version of iOS are you using? You can check in Settings > General > About.",
+   "action": "auto_handle",
+   "nn_similarity": 0.276
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Hello. Thanks for your interest. Please reach out to our Apple Online Store Team here: <link> Enjoy!",
+   "action": "auto_handle",
+   "nn_similarity": 0.315
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer You can use this guide to help respond properly to and report phishing attempts: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.706
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Please reach out to our iTunes billing Support here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.404
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We know this isn't news you were hoping to receive. If you'll meet up with us in DM, we can discuss options. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.334
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd be happy to look this over with you. Please meet us in DM so we may gather information, and better assist. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.461
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer To hide \"Now Playing\" take a look at the steps in this article: <link> If you need more help, DM us! <link>",
+   "action": "escalate",
+   "nn_similarity": 0.376
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer Thanks for reaching out. We're happy to assist you. Are you selecting the photos on our <link> site?",
+   "action": "auto_handle",
+   "nn_similarity": 0.415
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer That's never the experience we want you to have. DM us which device you're using and we'll look into it with you. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.545
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.395
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for keeping us in the loop. Do you have to take any particular steps to get your iPhone to start to respond again? When it crashes, does the current app close and take you back to the Home screen? Let us know via a DM. We\u2019ll keep moving forward from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.367
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We are always here to help. Let us know in DM more about the issue you're having. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.387
+  },
+  {
+   "intent": "other_unclear",
+   "reply": "@customer We're here to help. DM us what's going on and we can go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.274
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We can help! Please join us in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.518
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to help get it running smoothly again. How long has it been since you updated your iPhone? Which model is it?",
+   "action": "auto_handle",
+   "nn_similarity": 0.3
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We offer support via Twitter in English. Contact us for help in your preferred language here: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.312
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Let's look into this for you. Send us a DM with your current iOS version to get started. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.338
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out. We have a workaround for this here: <link> DM us if you still need help. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.592
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Hey, we can work together to make sure the battery life is as expected. Send us a DM and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.217
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We can happily help look into this together. Are you experiencing any issues on your iPhone currently? Let us know in DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.504
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd be happy to help with your iPad. DM us with more details on the issues you're having, and we'll look into this with you. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.372
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to help. Please DM us details to the issue you're experiencing and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.343
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Thanks. Send us a DM, and we\u2019ll take a closer look into this. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.299
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We want you to be able to enjoy Apple Music. Connect with us in DM and we'll do all we can to help: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.4
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Great question, as it looks like our iCloud website. Does the same screen come up using this link: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.334
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.447
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We certainly want to assist with this. Send us a DM with your iPhone model and exact iOS 11 version. We'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.567
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Hi. Is this happening with notifications, incoming calls, or listening to music? Please DM details, we'd like to help. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.365
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Thanks for reaching out. Which password did you forget? We'd be happy to help.",
+   "action": "auto_handle",
+   "nn_similarity": 0.437
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer This is expected behavior in iOS 11. For more info, check out: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.498
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Thanks for reaching out. Which device is this occurring on? Let us know, we'd like the details to assist.",
+   "action": "auto_handle",
+   "nn_similarity": 0.63
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer The configuration you've described will work just fine, however if you'd like to avoid using a hub, you could also opt to purchase a USB-B to USB-C cable instead to connect your printer directly to your MacBook Pro.",
+   "action": "auto_handle",
+   "nn_similarity": 0.32
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Looks like your Apple Watch is the 1st generation. This is a different model than the Apple Watch Series 1.",
+   "action": "auto_handle",
+   "nn_similarity": 0.731
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd like to look into this in greater detail to see if we can help. Tell us what type of device you're using via DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 1.0
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer We're happy to help. Follow this link for the steps to get updated: <link> DM us if you have any trouble: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.522
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We're here for you. Shoot us a DM when you have a chance, and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.34
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks. Have you restarted the iPhone since this began? Please answer in DM, and we\u2019ll continue. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.408
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Let's try following this article: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.4
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd love to look into this with you. Tell us what happens while trying to access your Reading List while offline.",
+   "action": "auto_handle",
+   "nn_similarity": 0.367
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.736
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We're here to help. Send us a DM with more detail about the issues you're experiencing, and we'll get started. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.64
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We'd like to learn more about this issue. Please send us a DM with your current iOS version. Thanks! <link>",
+   "action": "escalate",
+   "nn_similarity": 0.589
+  },
+  {
+   "intent": "how_to_question",
+   "reply": "@customer That\u2019s a great question. Here\u2019s a link about the automatic iCloud backup feature: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.394
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out to us for support. We would love to help you. Please DM us so that we can look into this together. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.44
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer Hi. We'd like to help with the issues you're having. DM us and tell us which device you're using. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.442
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We'd be happy to look into this! What Mac model are you using? Tell us in DM: <link>",
+   "action": "escalate",
+   "nn_similarity": 0.359
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.582
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Are you typing a specific key when this appears? Which apps does this occur with? Please send us a DM. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.591
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer Thanks for reaching out to us. Follow the suggestions from this link here: <link> Let us know if this helps.",
+   "action": "auto_handle",
+   "nn_similarity": 0.302
+  },
+  {
+   "intent": "account_billing",
+   "reply": "@customer Thanks for reaching out. This article explains how to turn off Activation Lock: <link> <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.437
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer There's an update out now that fixes this issue. Make sure you have a recent update and update to 11.1.1. Let us know if that fixes the issue. <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.724
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer That's definitely unexpected, but we'd like to help. Reach out to us in DM & tell us more about what's going on. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.455
+  },
+  {
+   "intent": "performance_battery",
+   "reply": "@customer We want to help. DM us the country you're located in and we'll go from there. <link>",
+   "action": "escalate",
+   "nn_similarity": 0.276
+  },
+  {
+   "intent": "feature_app_malfunction",
+   "reply": "@customer We can partner with you on this. These steps will help with what you're seeing: <link>",
+   "action": "auto_handle",
+   "nn_similarity": 0.828
+  }
+ ]
+}
