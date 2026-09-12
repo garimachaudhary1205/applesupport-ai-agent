@@ -33,7 +33,7 @@ def majority_baseline(golden):
 
 def tfidf_logreg_intent(golden, seed=42):
     """5-fold cross-validated predictions so every example is scored
-    out-of-fold — the simple baseline never sees its own label."""
+    out-of-fold, the simple baseline never sees its own label."""
     texts = [g["customer_text"] for g in golden]
     labels = [g["gold_intent"] for g in golden]
     pipe = make_pipeline(

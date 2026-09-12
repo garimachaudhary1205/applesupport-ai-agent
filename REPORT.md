@@ -1,4 +1,4 @@
-# Report — AppleSupport AI agent
+# Report: AppleSupport AI agent
 
 ## 1. Problem framing: what "good" means for this brand
 
@@ -14,10 +14,10 @@ For this brand, a good agent therefore means:
 - **Correct triage.** Route each tweet to the right support flow (the
   8 intents in `src/taxonomy.py`) and, more importantly, make the right
   **auto vs escalate** call. Apple historically moved 52.6% of public
-  conversations to DM — account, repair, and diagnostic matters do not
+  conversations to DM; account, repair, and diagnostic matters do not
   belong in public 280-character replies, and neither does a bot.
 - **Grounded first responses.** A draft reply is good if it does what Apple
-  actually did for similar issues — same concrete steps, same voice — and
+  actually did for similar issues, same concrete steps, same voice, and
   never invents policies, prices, or promises. Novelty is a liability here.
 - **Cheap and safe at volume.** ~500 inbound tweets/day for one brand means
   the agent runs on a small model (Haiku), with deterministic guardrails
@@ -28,7 +28,7 @@ For this brand, a good agent therefore means:
 sees thread context but each run drafts one reply); reply *sending* and DM
 handoff plumbing; fine-tuned classifiers (an LLM + retrieval beats them at
 this scale of labelled data); embedding/vector retrieval (TF-IDF is
-transparent, fast, and strong on short noisy text — an embedding upgrade is
+transparent, fast, and strong on short noisy text; an embedding upgrade is
 in "next week"); non-English support (escalates instead); and any use of
 Banking77 (its intents are banking-specific and would not transfer).
 
@@ -71,8 +71,8 @@ cross-validated so it never sees its own test label.
 | Simple (TF-IDF+logreg / NN-asks-DM) | 0.483 | 0.298 | 0.233 | 0.500 | 0.318 |
 | **Agent (Haiku + retrieval + guardrails)** | **0.826** | **0.702** | 0.632 | **0.768** | **0.694** |
 
-**Reply quality (LLM judge, 1–5).** A Sonnet judge — a different, stronger
-model than the agent, blind to which system wrote each reply — scored the
+**Reply quality (LLM judge, 1-5).** A Sonnet judge, a different, stronger
+model than the agent, blind to which system wrote each reply, scored the
 agent's draft, the nearest-neighbour baseline (copy the most similar
 historical reply), and Apple's **actual historical reply** as a calibration
 anchor, on 120 golden examples:
@@ -88,7 +88,7 @@ author's blind rubric scores (assigned before running the judge) on
 36 mixed replies: Spearman ρ = 0.458, within-1 agreement
 88.9%, quadratic-weighted κ = 0.556.
 
-## 5. Failure analysis — top 5 failure modes
+## 5. Failure analysis: top 5 failure modes
 
 **1. Guardrail regexes over-fired on substrings (found by this eval, then
 fixed).** The `legal_threat` pattern `sue\b` matched inside "is**sue**" and
@@ -125,7 +125,7 @@ the intent description needs "even if you can recognise the topic" language.
 public.** Roughly half the 25 false escalations are rants or vague reports
 (*"#iOS11 an absolute disaster, total disgrace. Phone totally unworkable"*)
 where the gold action is a public clarifying question but the model reasons
-"requires DM clarification" — mimicking Apple's own DM-heavy style from the
+"requires DM clarification", mimicking Apple's own DM-heavy style from the
 exemplars. This is the *safe* direction of error, but at volume it defeats
 the point of automation. Hypothesis: the exemplars teach "Apple's next step
 is DM" as the default resolution; the policy's "may ask ONE clarifying
@@ -139,9 +139,9 @@ accident"* (gold: account/billing) → `hardware_damage`. The model anchors on
 device nouns rather than the fault mechanism or the tool needed to fix it
 (repair bench vs account console). A related cluster: question-phrased
 symptoms (*"may I run a diagnostic for my battery? It's dying quickly"*)
-land on the symptom class where I labelled the ask (`how_to_question`) —
+land on the symptom class where I labelled the ask (`how_to_question`) -
 some of these are genuinely arguable labels, which is itself a finding
-(taxonomy boundaries, not model capability, cap measurable accuracy).
+(taxonomy boundaries rather than model capability cap measurable accuracy).
 
 ## 6. What is misleading about my headline number?
 
@@ -165,7 +165,7 @@ some of these are genuinely arguable labels, which is itself a finding
    calibration anchor showing the judge's bias, not as evidence the agent
    outperforms humans.
 4. **The judge and the agent share a model family.** Sonnet judging Haiku
-   reduces but does not eliminate family self-preference — both may share
+   reduces but does not eliminate family self-preference; both may share
    blind spots (e.g., both consider "have you tried updating?" adequate).
    The judge-human agreement is computed against *my* scores, and I am not
    independent of the system design. And the judge sees the same retrieved
@@ -174,10 +174,10 @@ some of these are genuinely arguable labels, which is itself a finding
 5. **Escalation recall is measured against a 24% escalate base rate** on a
    set where I over-sampled escalate-y strata. On the true stream the base
    rate is lower and rarer patterns (legal threats, safety) appear in
-   numbers too small to measure — the guardrails for exactly those cases
+   numbers too small to measure; the guardrails for exactly those cases
    are essentially untested by this eval.
 6. **Judged "reply quality" ≠ resolved customers.** The only ground truth
-   this dataset could give — did the customer come back angry? — is not in
+   this dataset could give (did the customer come back angry?) is not in
    the loop. A reply can score 5/5 and still be wrong for a specific device
    (the judge can't verify that Settings path existed on iOS 11).
 7. **Temporal leakage.** The retrieval index spans the whole window, so the
@@ -189,7 +189,7 @@ some of these are genuinely arguable labels, which is itself a finding
 
 1. **Second annotator + adjudication** on all 230 examples; report
    inter-annotator agreement and re-baseline every metric against
-   adjudicated labels. This is the highest-leverage item — it hardens the
+   adjudicated labels. This is the highest-leverage item; it hardens the
    yardstick everything else is measured with.
 2. **Escalation-focused eval**: mine the dataset for threads that *did*
    blow up (multi-turn anger, churn statements) and build a dedicated
@@ -203,5 +203,5 @@ some of these are genuinely arguable labels, which is itself a finding
    proxies (did the thread end? did Apple's real agent do what our agent
    did next?).
 5. **Prompt/model ablations**: Haiku vs Sonnet agent, k=0 (no retrieval) vs
-   k=6, guardrails on/off — each cell through the same eval to attribute
+   k=6, guardrails on/off, each cell through the same eval to attribute
    the headline number to its components.

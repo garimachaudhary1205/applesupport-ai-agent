@@ -1,4 +1,4 @@
-# Decision log — non-obvious decisions and why
+# Decision log, non-obvious decisions and why
 
 1. **Brand: AppleSupport, not AmazonHelp.** AmazonHelp is bigger but its
    replies are near-uniform redirection boilerplate; Apple's replies contain
@@ -6,7 +6,7 @@
 
 2. **Apple's 52.6% "move to DM" rate became the escalation signal.** Apple
    moving a conversation to DM is a historical proxy for "needs
-   account-specific/human handling" — used for the nearest-neighbour
+   account-specific/human handling", used for the nearest-neighbour
    escalation baseline and to sanity-check the policy, not as gold truth.
 
 3. **Pairs, not threads, as the unit.** Each (customer tweet → direct Apple
@@ -16,7 +16,7 @@
 
 4. **Intent = symptom, not cause; 8 intents including explicit
    `complaint_feedback` and `other_unclear`.** "Battery drains since iOS 11"
-   is `performance_battery`, not an update issue — support flows branch on
+   is `performance_battery`, not an update issue, support flows branch on
    the symptom (consequence: `update_install_issue` is genuinely rare,
    2/230). And ~13% of the stream is venting or unintelligible; without
    those buckets the model is forced to hallucinate a technical intent.
@@ -37,18 +37,18 @@
    exercised, not just written down.
 
 8. **Retrieval index excludes all golden pair_ids.** Otherwise the agent
-   retrieves the evaluation tweet itself along with Apple's actual answer —
+   retrieves the evaluation tweet itself along with Apple's actual answer -
    leakage that inflates every metric.
 
 9. **Simple intent baseline scored with 5-fold cross-validation** on the
-    golden set, so it never sees its own test label — a fair comparison even
+    golden set, so it never sees its own test label, a fair comparison even
     with only 230 labelled examples.
 
 10. **Judge is a different, stronger model (Sonnet) than the agent (Haiku),
     blind to which system wrote the reply**, and also scores Apple's real
     historical replies as a calibration anchor. Human scores for the
     judge-agreement check were assigned *before* running the judge, on a
-    mixed shuffled sample of agent/baseline/historical replies — the only
+    mixed shuffled sample of agent/baseline/historical replies, the only
     way a solo author can approximate a blind comparison.
 
 11. **LLM client supports two backends** (Anthropic SDK / `claude -p` CLI)
@@ -69,7 +69,7 @@
     eval caught guardrail regexes matching substrings ("is**sue**" →
     legal_threat). Because guardrails are a deterministic layer *after* the
     LLM call, `src/eval/reapply_guardrails.py` reconstructs the model's own
-    decision and re-applies the fixed patterns — saving 230 LLM calls and
+    decision and re-applies the fixed patterns, saving 230 LLM calls and
     keeping the LLM outputs byte-identical to the original run.
 
 15. **Non-English → escalate rather than reply in-language.** The historical

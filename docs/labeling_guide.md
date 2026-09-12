@@ -24,8 +24,8 @@ Each example gets two labels: `gold_intent` (one of the 8 intents in
 `escalate` when any of: account/billing/security matter; hardware damage or
 repair; safety risk (smoke, burns, swelling); prior troubleshooting in the
 thread already failed; explicit demand for a human; legal threat;
-non-English. Everything else — first-contact troubleshooting, how-tos,
-venting — is `auto_handle` (a public reply, possibly asking one clarifying
+non-English. Everything else (first-contact troubleshooting, how-tos,
+venting) is `auto_handle` (a public reply, possibly asking one clarifying
 question, is appropriate).
 
 Edge case: `other_unclear` that is plausibly product-related but vague →

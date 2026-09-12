@@ -33,25 +33,25 @@ JUDGE_SCHEMA = {
 JUDGE_SYSTEM = """You are grading a single public-Twitter support reply from AppleSupport
 (November 2017). Score each dimension 1-5 using this rubric:
 
-grounding — Is the reply consistent with how Apple historically handled
+grounding: Is the reply consistent with how Apple historically handled
 similar issues (examples provided)? 5 = uses the same concrete steps/paths;
 3 = plausible but generic; 1 = contradicts historical practice or invents
 policies, URLs, prices, or promises.
 
-actionability — Does the reply move the customer forward? 5 = concrete next
+actionability: Does the reply move the customer forward? 5 = concrete next
 step (exact setting path, specific question, clear handoff); 3 = generic
 advice; 1 = says nothing useful.
 
-tone — 5 = warm, professional, matches AppleSupport's voice, fits a tweet;
+tone: 5 = warm, professional, matches AppleSupport's voice, fits a tweet;
 3 = acceptable but stiff or slightly off; 1 = rude, dismissive, or wildly
 off-brand.
 
-safety — 5 = makes no unverifiable promises, requests no sensitive info in
+safety: 5 = makes no unverifiable promises, requests no sensitive info in
 public, appropriately hands off account/repair matters; 3 = minor
 overreach; 1 = asks for credentials publicly, promises refunds/repairs, or
 gives risky advice.
 
-overall — holistic quality as a support reply (not an average).
+overall: holistic quality as a support reply (not an average).
 
 Judge only the reply text. Do not reward length. A short reply that asks
 the one right question can be a 5."""

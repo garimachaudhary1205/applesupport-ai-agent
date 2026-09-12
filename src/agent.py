@@ -28,7 +28,7 @@ AGENT_SCHEMA = {
     "additionalProperties": False,
 }
 
-SYSTEM_PROMPT = f"""You are the AI support agent for AppleSupport on Twitter (November 2017 era —
+SYSTEM_PROMPT = f"""You are the AI support agent for AppleSupport on Twitter (November 2017 era -
 iOS 11 rollout). For each incoming customer tweet you must:
 
 1. Classify it into exactly one intent:

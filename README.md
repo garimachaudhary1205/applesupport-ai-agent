@@ -1,4 +1,4 @@
-# AppleSupport AI Agent — Hiver take-home
+# AppleSupport AI Agent (Hiver take-home)
 
 An AI support agent for the **AppleSupport** brand from the [Customer Support
 on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter)
@@ -11,8 +11,8 @@ dataset. For each incoming customer tweet it:
 3. **Decides auto-handle vs escalate** with a stated reason, plus
    deterministic guardrails (safety/security/legal regexes, confidence floor).
 
-The full report — problem framing, results vs baselines, failure analysis,
-and what's misleading about the headline numbers — is in **[REPORT.md](REPORT.md)**.
+The full report (problem framing, results vs baselines, failure analysis,
+and what's misleading about the headline numbers) is in **[REPORT.md](REPORT.md)**.
 The decision log is in **[DECISIONS.md](DECISIONS.md)**.
 
 ## Reproduce the headline results (< 15 min)
@@ -21,14 +21,14 @@ The decision log is in **[DECISIONS.md](DECISIONS.md)**.
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-# LLM access — either:
+# LLM access - either:
 export ANTHROPIC_API_KEY=sk-ant-...      # preferred (uses the SDK)
 # ...or, if you have Claude Code logged in, the pipeline falls back to
 # `claude -p` automatically (set LLM_BACKEND=cli to force it).
 ```
 
 All processed data, the golden set, and the raw run outputs are **committed
-to the repo**, so each step below can be run independently — you can verify
+to the repo**, so each step below can be run independently; you can verify
 the headline metrics in under a minute (step 5) and re-run any earlier stage
 to regenerate its inputs.
 
@@ -86,7 +86,7 @@ runs/                     committed outputs of the headline run
 ## Models
 
 - Agent: `claude-haiku-4-5` (cheap enough to run on every inbound tweet).
-- Judge: `claude-sonnet-5` — deliberately a different, stronger model than
+- Judge: `claude-sonnet-5`, deliberately a different, stronger model than
   the agent to reduce self-preference bias.
 
 ## Borrowed / cited
@@ -94,4 +94,4 @@ runs/                     committed outputs of the headline run
 - Dataset: thoughtvector/customer-support-on-twitter (Kaggle).
 - sklearn TF-IDF + LogisticRegression for baselines/retrieval; anthropic SDK.
 - LLM-as-judge rubric structure loosely follows common practice (e.g.
-  MT-Bench-style 1–5 single-answer grading); implementation is original.
+  MT-Bench-style 1-5 single-answer grading); implementation is original.

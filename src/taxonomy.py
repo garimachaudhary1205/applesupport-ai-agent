@@ -1,7 +1,7 @@
 """Intent taxonomy and escalation policy for the AppleSupport agent.
 
 Derived from reading samples of the Nov-2017 @AppleSupport inbound stream
-(iOS 11 era). Definitions are written for a labeler first, model second —
+(iOS 11 era). Definitions are written for a labeler first, model second -
 the same text is used in the labeling guide and in the agent prompt.
 """
 
@@ -13,7 +13,7 @@ INTENTS = {
     ),
     "performance_battery": (
         "Battery draining fast, device running hot, slow, laggy, freezing, "
-        "random restarts, or boot loops — device/OS-level performance and "
+        "random restarts, or boot loops, device/OS-level performance and "
         "power problems, whatever the suspected cause."
     ),
     "feature_app_malfunction": (
@@ -48,7 +48,7 @@ ACTIONS = ("auto_handle", "escalate")
 
 ESCALATION_POLICY = """\
 Escalate to a human when ANY of the following holds:
-- account_billing issues (account access, payments, refunds — needs identity
+- account_billing issues (account access, payments, refunds; these need identity
   verification and account tools the bot must not touch)
 - hardware_damage (repair decisions, warranty, physical inspection)
 - safety risk (device smoking/burning, injury, data loss claims)
