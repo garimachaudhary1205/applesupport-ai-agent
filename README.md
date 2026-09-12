@@ -43,8 +43,9 @@ python src/eval/build_golden.py
 # 3. baselines (no LLM, ~1 min)
 PYTHONPATH=src python src/baselines.py
 
-# 4. run the agent over the 230-example golden set (~10 min with 6 workers)
-python src/eval/run_agent.py            # resumable; use --limit 10 to smoke-test
+# 4. run the agent over the 230-example golden set (~20 min with --workers 12;
+#    or verify the committed run instantly by skipping to step 5)
+python src/eval/run_agent.py --workers 12   # resumable; --limit 10 to smoke-test
 
 # 5. metrics: intent accuracy/F1 + escalation P/R vs both baselines
 python src/eval/evaluate.py
@@ -74,7 +75,9 @@ src/eval/build_golden.py  stratified sampler for the golden set
 src/eval/run_agent.py     batch runner (parallel, resumable)
 src/eval/evaluate.py      intent + escalation metrics
 src/eval/judge.py         LLM judge (rubric, blind, judged by a stronger model)
+src/eval/judge_summary.py    mean judge scores per system (report table)
 src/eval/judge_agreement.py  judge vs human agreement stats
+src/eval/reapply_guardrails.py  re-run the deterministic guardrail layer on saved outputs
 data/golden/golden.jsonl  230 hand-labelled examples (intent + action)
 docs/labeling_guide.md    labeling rules and process
 runs/                     committed outputs of the headline run

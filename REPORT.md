@@ -122,7 +122,7 @@ escalation). Hypothesis: the class is defined by what support should *do*
 the intent description needs "even if you can recognise the topic" language.
 
 **4. Vague-but-benign messages get escalated to DM instead of asked in
-public.** Roughly half the 28 false escalations are rants or vague reports
+public.** Roughly half the 25 false escalations are rants or vague reports
 (*"#iOS11 an absolute disaster, total disgrace. Phone totally unworkable"*)
 where the gold action is a public clarifying question but the model reasons
 "requires DM clarification" — mimicking Apple's own DM-heavy style from the
